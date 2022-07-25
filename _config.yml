@@ -1,1 +1,19 @@
+title: <p align="center"> Jagdish Lamba </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jagdish-lamba-90998940/">LinkedIn</a> |
+  <a href="https://github.com/jagdishlamba">GitHub</a>
+  
+  <br>   
+  I'm working on Data Analysis, Machine learning problems.
+  Worked with Govt org in web development using Django, CodeIgnitor.
+  Working as Network Administrator for 8 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
